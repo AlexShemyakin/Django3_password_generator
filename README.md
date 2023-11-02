@@ -12,6 +12,10 @@
 ## Запуск проекта
 
 - Установите и активируйте виртуальное окружение
+```
+python3 -m venv env
+source env/bin/activate
+```
 - Установите зависимости из файла requirements.txt
 ```
 pip install -r requirements.txt
